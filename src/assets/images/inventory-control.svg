@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-  <g id="Group_754" data-name="Group 754" transform="translate(-288 -2075)">
-    <g id="Group_753" data-name="Group 753">
-      <rect id="Rectangle_494" data-name="Rectangle 494" width="40" height="40" transform="translate(288 2075)" fill="none"/>
-    </g>
-    <path id="production" d="M21.941,11.784V0H6.79V11.784H0V28.731H28.731V11.784Zm-1.683,1.683h1.683v3.367H20.258ZM13.524,1.683h1.683V5.05H13.524Zm-5.05,0H11.84v5.05h5.05V1.683h3.367v10.1H8.473ZM6.79,13.468H8.473v3.367H6.79Zm-5.106,0H5.106v5.05h5.05v-5.05h3.367v10.1H1.683Zm25.364,13.58H1.683v-1.8H27.047Zm-11.84-3.479v-10.1h3.367v5.05h5.05v-5.05h3.423v10.1Z" transform="translate(293.635 2080.635)" fill="#4A4A4A"/>
-  </g>
-</svg>
